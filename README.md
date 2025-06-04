@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/2a52234dd72571aae8dc2beb17d1a26f9dd5ca5afe9a88e5737731c14af0cc16/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi, こんにちは, Halo, Hola 👋, I'm Khairunas Rhamadhani Wiasanto</h1>
 <h3 align="center">Interested in Web Developer and Artificial Intelligence</h3>
 <img img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
