@@ -1,4 +1,4 @@
-![MasterHead](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi, こんにちは, Halo, Hola 👋, I'm Khairunas Rhamadhani Wiasanto</h1>
 <h3 align="center">Interested in Web Developer and Artificial Intelligence</h3>
 <img img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
